@@ -1,5 +1,5 @@
-# Titanic Survival Prediction 
-![Titanic](https://i.pinimg.com/564x/70/3e/02/703e028f8acef43ae65e79c4491cff60.jpg)
+![image](https://github.com/user-attachments/assets/bd3db6da-7ffb-4ec2-8a99-69c281ea7dae)
+
 
 ## Titanic Survival Prediction
 
