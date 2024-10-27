@@ -493,7 +493,7 @@ Sure, here's a concise installation guide for Jupyter Notebook and the required 
 ---
 ## Contact
 
-**If you have any questions, doubts, or feedback regarding the project, installation, or repository usage, please feel free to contact me via email at** **rubypoddar101@gmail.com.**
+**If you have any questions, doubts, or feedback regarding the project, installation, or repository usage, please feel free to contact me via email at** **rubypoddarr@gmail.com.**
 
 #### Your input is highly valued and will contribute to the improvement of this project. Thank you for your interest and collaboration!
 
