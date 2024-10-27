@@ -1,6 +1,5 @@
 ![image](https://see.fontimg.com/api/rf5/lg61w/ZDBmZjBhMDEzYjdkNDcwYjk5ZTI2NTE3M2I1NWZjNzYudHRm/VGl0YW5pYyBTdXJ2aXZhbCBQcmVkaWN0aW9u/palm-leaf-demo-regular.png?r=fs&h=31&w=1250&fg=7EFD2D&bg=FFFFFF&tb=1&s=25)
 
-
 ## Titanic Survival Prediction
 
 This Repositorie aims to predict the survival of passengers aboard the Titanic using machine learning techniques. The dataset includes various attributes such as age, gender, ticket class, and more, which are analyzed to build a predictive model. The project involves data loading, preprocessing, feature engineering, model selection, training, evaluation, and result interpretation. The final model predicts survival probabilities based on passenger features.
