@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bd3db6da-7ffb-4ec2-8a99-69c281ea7dae)
+![image](https://see.fontimg.com/api/rf5/lg61w/ZDBmZjBhMDEzYjdkNDcwYjk5ZTI2NTE3M2I1NWZjNzYudHRm/VGl0YW5pYyBTdXJ2aXZhbCBQcmVkaWN0aW9u/palm-leaf-demo-regular.png?r=fs&h=31&w=1250&fg=7EFD2D&bg=FFFFFF&tb=1&s=25)
 
 
 ## Titanic Survival Prediction
